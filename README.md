@@ -11,8 +11,3 @@ Devise, Faker, Pundit, RedCarpet, CarrierWave, MiniMagick, Fog, Figaro, Will_Pag
 
 ## Framework
 Twitter Bootstrap 3
-
-
-
-Wacawaca
-
