@@ -10,7 +10,7 @@ Enables profile creation, photo upload, posting, favoriting and pagination along
 Devise, Faker, Pundit, RedCarpet, CarrierWave, MiniMagick, Fog, Figaro, Will_Paginate, rSpec
 
 ## Framework
-Twitter Bootstrap
+Twitter Bootstrap 3
 
 
 
